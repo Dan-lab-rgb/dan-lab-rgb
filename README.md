@@ -10,7 +10,7 @@ Me chamo Daniel, tenho 18 anos e moro em   SP. Atualmente, curso Análise e Dese
  
 #
 
-<img align="right" alt="" height="190px" src="./src/Happy Ball GIF by TVGalicia.gif">
+<img align="right" alt="" height="190px" src="./src/GokuGIF">
 
 <h3 align="left">Connect with me!</h3>
 
